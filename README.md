@@ -2,7 +2,7 @@
 # <p align="center">![7DaysOfCode](https://github.com/user-attachments/assets/f6b05689-a7f2-436b-a3bc-194a2f6a92ab)</p>
 # 🚀 #7DaysOfCode - Mis Respuestas  
 
-Este repositorio contiene mis soluciones al desafío **#7DaysOfCode** de Alura Latam, donde resuelvo problemas de lógica de programación durante 7 días seguidos.  
+Este repositorio contiene mis soluciones al desafío **#7DaysOfCode** del programa ONE (Oracle Next Education), donde resuelvo problemas de lógica de programación durante 7 días seguidos.  
 
 ## 📂 Estructura  
 Cada carpeta contiene la solución del día correspondiente:  
