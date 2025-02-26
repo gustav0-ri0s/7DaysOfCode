@@ -5,7 +5,7 @@ Este repositorio contiene mis soluciones al desafío **#7DaysOfCode** de Alura L
 ## 📂 Estructura  
 Cada carpeta contiene la solución del día correspondiente:  
 
-- **Día-1** → [`Desafío 1`](./Dia #1 -Operaciones Booleanas/reto1.md)
+- **Día-1** → [Desafío 1](Dia%20#1%20-Operaciones%20Booleanas/reto1.md)
 
 
 ## 💡 ¿Por qué hacer este desafío?  
