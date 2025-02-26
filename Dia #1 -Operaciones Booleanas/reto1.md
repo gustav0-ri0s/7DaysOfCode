@@ -5,12 +5,12 @@
 La parte más confusa para quienes están comenzando a aprender lógica con JavaScript es la operación de igualdad entre valores. Dependiendo de cómo escribas tu código, JavaScript hará una conversión de tipo a un tipo booleano de manera implícita (automática), y esto afectará a variables que eran Strings, Numbers, Object, etc.
 
 Esto causa algunos comportamientos extraños, como todos estos ejemplos a continuación que retornan true:
-
+```
 - console.log( false == '0' );
 - console.log( null == undefined );
 - console.log( " \t\r\n" == 0 );
 - console.log( ' ' == 0 );
-
+```
 Lo cual no tiene necesariamente mucho sentido.
 
 ## Enunciado
