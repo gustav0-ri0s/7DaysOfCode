@@ -44,7 +44,7 @@ if (COMPARAR numeroDiez y stringDiez) {
 }
  */
 ```
-#### Solucion:  **[Aquí](./Dia #1 -Operaciones Booleanas/day-1.js)**.
+#### Solucion:  **[Aquí](Dia%20%231%20-Operaciones%20Booleanas/day-1.js)**.
 
 # Explicación de la solución
 
