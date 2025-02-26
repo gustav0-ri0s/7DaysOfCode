@@ -7,7 +7,8 @@ Este repositorio contiene mis soluciones al desafío **#7DaysOfCode** del progra
 ## 📂 Estructura  
 Cada carpeta contiene la solución del día correspondiente:  
 
-- **Día-1** → [Desafío 1](Dia%20%231%20-Operaciones%20Booleanas/reto1.md)
+- **Día-1** → Operaciones Booleanas [Desafío 1](Dia%20%231%20-Operaciones%20Booleanas/reto1.md).
+- **Día-2** → Variables [Desafío 2](Dia%20%232%20-Variables/reto2.md)
 
 
 ## 💡 ¿Por qué hacer este desafío?  
