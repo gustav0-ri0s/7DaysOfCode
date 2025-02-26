@@ -5,10 +5,8 @@ Este repositorio contiene mis soluciones al desafío **#7DaysOfCode** de Alura L
 ## 📂 Estructura  
 Cada carpeta contiene la solución del día correspondiente:  
 
-- **/día-1** → Desafío 1  
-- **/día-2** → Desafío 2  
-- **...**  
-- **/día-7** → Desafío final  
+- **Día-1** → [`Desafío 1`](./Dia #1 -Operaciones Booleanas/reto1.md)
+
 
 ## 💡 ¿Por qué hacer este desafío?  
 - Mejora la lógica de programación  
@@ -19,6 +17,6 @@ Cada carpeta contiene la solución del día correspondiente:
 Si tienes sugerencias o mejoras, abre un _issue_ o un _pull request_. ¡Aprendemos juntos!  
 
 ## 📬 Contacto  
-¿Quieres hablar sobre código o compartir experiencias? Conéctate conmigo en **[LinkedIn](https://www.linkedin.com/in/manuel-alejandro-pena/)**.  
+¿Quieres hablar sobre código o compartir experiencias? Conéctate conmigo en **[LinkedIn](https://www.linkedin.com/in/gustavoed4/)**.  
 
 ¡Vamos por más líneas de código! 🚀
