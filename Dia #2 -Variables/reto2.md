@@ -1,5 +1,5 @@
-#![dia2](https://github.com/user-attachments/assets/02d24725-c0c7-4891-a0e4-2fa9d496d682)
- Dia 2: VARIABLES
+![dia2](https://github.com/user-attachments/assets/02d24725-c0c7-4891-a0e4-2fa9d496d682)
+# Dia 2: VARIABLES
 #### Dificultad: Fácil | Publicación: 26/01/25 
 
 Cuando creas un sistema, site o aplicación, es común querer agregar algunos toques personalizados para hacer la experiencia en tu aplicación más rica y dinámica.
