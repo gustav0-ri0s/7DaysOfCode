@@ -1,5 +1,6 @@
-![dia2](https://github.com/user-attachments/assets/02d24725-c0c7-4891-a0e4-2fa9d496d682)
-# Dia 2: ESTRUCTURAS DE CONTROL
+![dia3](https://github.com/user-attachments/assets/571893ca-bf75-42f6-abeb-dacec12edcb7)
+
+# Dia 3: ESTRUCTURAS DE CONTROL
 #### Dificultad: Fácil | Publicación: 27/01/25 
 
 ¿Alguna vez has jugado un juego que te dé más de una opción y, dependiendo de lo que elijas, el destino del personaje sea completamente diferente?
