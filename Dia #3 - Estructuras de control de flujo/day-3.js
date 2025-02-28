@@ -1,4 +1,4 @@
-//"Solucion 3/7: Estructuras de control de flujo";
+//"Solucion 3/7: Estructuras de control de flujo"
 let nombre = prompt("Hola, ¿Cuál es tu nombre?");
 let tecnologiasAprender = [];
 let continuar='ok';
