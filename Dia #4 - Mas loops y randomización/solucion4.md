@@ -30,8 +30,6 @@ Este es un juego simple donde el usuario debe adivinar un número aleatorio dent
 
 ## 📷 Capturas de Pantalla
 
-_Agrega aquí capturas de pantalla del juego en acción._
-
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/cd7b45bb-77d2-42a7-ab3a-acb890e808f9" alt="Captura 1" width="800">
@@ -40,8 +38,3 @@ _Agrega aquí capturas de pantalla del juego en acción._
 <img src="https://github.com/user-attachments/assets/140b654b-98b3-4a2f-a949-bfbf9c0967ad" alt="Captura 4" width="400">
    
 </div>  
----
-
-## 🚀 Cómo Ejecutarlo
-
-Solo abre el archivo HTML que contenga este script en un navegador y comienza a jugar.  
