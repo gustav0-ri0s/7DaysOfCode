@@ -10,7 +10,7 @@ Cada carpeta contiene la solución del día correspondiente:
 - **Día-1** → Operaciones Booleanas [Desafío 1](Dia%20%231%20-Operaciones%20Booleanas/reto1.md).
 - **Día-2** → Variables [Desafío 2](Dia%20%232%20-Variables/reto2.md)
 - **Día-3** → Estructuras de control de flujo [Desafío 3](Dia%20%233%20-%20Estructuras%20de%20control%20de%20flujo/reto3.md)
-- **Día-4** → Estructuras de control de flujo [Desafío 4]()
+- **Día-4** → Estructuras de control de flujo [Desafío 4](Dia%20%234%20-%20Mas%20loops%20y%20randomización/reto4.md)
 
 
 ## 💡 ¿Por qué hacer este desafío?  
