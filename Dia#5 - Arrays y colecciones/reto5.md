@@ -1,4 +1,4 @@
-![dia 5](https://github.com/user-attachments/assets/65ef1abe-b6d7-4843-8b14-201cbd0cd4f9)
+![dia 5](https://github.com/user-attachments/assets/de1f506a-e932-4505-a268-264a41fc1f05)
 
 # Dia 5: Arrays y Colecciones
 #### Dificultad: Fácil | Publicación: 01/03/25 
@@ -20,10 +20,10 @@ Hoy, para optimizar tu visita al supermercado, crearás un programa en JavaScrip
 
 ## 📌 Desafío
 
-1️⃣ El programa preguntará si deseas agregar un alimento a la lista. Debes responder "sí" o "no".
-2️⃣ Si respondes "sí", te pedirá que ingreses el nombre del alimento, por ejemplo, "zanahoria".
-3️⃣ Luego, deberás seleccionar la categoría del alimento, con opciones predefinidas como frutas, lácteos, congelados, dulces, entre otras.
-4️⃣ Si decides no agregar más productos, el programa imprimirá tu lista agrupada por categorías.
+- 1️⃣ El programa preguntará si deseas agregar un alimento a la lista. Debes responder "sí" o "no".
+- 2️⃣ Si respondes "sí", te pedirá que ingreses el nombre del alimento, por ejemplo, "zanahoria".
+- 3️⃣ Luego, deberás seleccionar la categoría del alimento, con opciones predefinidas como frutas, lácteos, congelados, dulces, entre otras.
+- 4️⃣ Si decides no agregar más productos, el programa imprimirá tu lista agrupada por categorías.
 
 📋 Ejemplo de salida esperada:
 
@@ -33,10 +33,10 @@ banana, leche en polvo, tomate, leche vegetal, chicle, gominola, manzana, uva, a
 El programa mostrará:
 
 🔹 Lista de compras:
-✅ Frutas: banana, tomate, manzana, uva, aguacate
-✅ Lácteos: leche vegetal, leche de vaca, leche en polvo
-✅ Congelados: (sin elementos)
-✅ Dulces: chicle, gominola
+- ✅ Frutas: banana, tomate, manzana, uva, aguacate
+- ✅ Lácteos: leche vegetal, leche de vaca, leche en polvo
+- ✅ Congelados: (sin elementos)
+- ✅ Dulces: chicle, gominola
 
 ¡Después de este desafío, tu próxima compra será mucho más eficiente! 🚀
 
