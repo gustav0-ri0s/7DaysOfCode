@@ -1,6 +1,6 @@
-![dia4](https://github.com/user-attachments/assets/571893ca-bf75-42f6-abeb-dacec12edcb7)
+![dia 4](https://github.com/user-attachments/assets/65ef1abe-b6d7-4843-8b14-201cbd0cd4f9)
 
-# Dia 4: MAS LOOPS 
+# Dia 4: Mas loops y randomización
 #### Dificultad: Fácil | Publicación: 27/01/25 
 
 ## Enunciado
