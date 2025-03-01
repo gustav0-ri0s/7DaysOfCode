@@ -11,7 +11,7 @@ Cada carpeta contiene la solución del día correspondiente:
 - **Día-2** → Variables [Desafío 2](Dia%20%232%20-Variables/reto2.md)
 - **Día-3** → Estructuras de control de flujo [Desafío 3](Dia%20%233%20-%20Estructuras%20de%20control%20de%20flujo/reto3.md)
 - **Día-4** → Estructuras de control de flujo [Desafío 4](Dia%20%234%20-%20Mas%20loops%20y%20randomización/reto4.md)
-- **Día-5** → Arrays y colecciones [Desafío 5]()
+- **Día-5** → Arrays y colecciones [Desafío 5](Dia%235%20-%20Arrays%20y%20colecciones/reto5.md)
 
 
 ## 💡 ¿Por qué hacer este desafío?  
