@@ -9,6 +9,11 @@ function limpiarcaja(){
     document.querySelector('#amigo').value='';
 }
 
+function bloquearInputYBoton() {
+    document.getElementById("amigo").disabled = true;
+    document.querySelector(".button-add").disabled = true;
+}
+
 function actualizarBoton() {
     document.querySelector(".button-add").textContent = `Intento ${intentos + 1}`;
 }
@@ -23,7 +28,7 @@ function mostrarMensaje(mensaje, mostrarBoton = false) {
 
         let botonReinicio = document.createElement("button");
         botonReinicio.textContent = "Jugar de nuevo";
-        botonReinicio.classList.add("button-reiniciar");
+        botonReinicio.classList.add("button-restart");
         botonReinicio.id = "btn-reiniciar";
         botonReinicio.addEventListener("click", reiniciarJuego);
 
@@ -51,6 +56,7 @@ function adivinarNumero() {
    // Comprobar si el usuario adivinó el número
    if (numeroUsuario === numeroAleatorio) {
     mostrarMensaje(`🎉¡Felicidades! Adivinaste el número en ${intentos} intento${intentos > 1 ? 's' : ''}.`,true);
+    bloquearInputYBoton();
     } else {
         if (intentos < maxIntentos) {
             let mensaje = numeroUsuario < numeroAleatorio ? "El número es mayor." : "El número es menor.";
@@ -58,6 +64,7 @@ function adivinarNumero() {
             limpiarcaja();
         } else {
             mostrarMensaje(`❌ ¡Fallaste! El número era ${numeroAleatorio}.`,true);
+            bloquearInputYBoton();
         }
     }
     
@@ -69,6 +76,8 @@ function reiniciarJuego() {
     actualizarBoton();
     limpiarcaja();
     mostrarMensaje("");
+    document.getElementById("amigo").disabled = false;
+    document.querySelector(".button-add").disabled = false;
 }
 
 
