@@ -1,4 +1,4 @@
-//"Solucion 5/7: Arryas y cole
+//"Solucion 5/7: Arryas y colecciones
 const listaCompras = {
     "Lacteos": [],
     "Frutas": [],
