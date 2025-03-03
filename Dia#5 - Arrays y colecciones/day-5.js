@@ -15,13 +15,15 @@ function mostrarMensaje(mensaje) {
 
 function agregarProducto() {
     while (true) {
-        let producto = prompt("Ingresa el producto que deseas agregar a la lista de compras ( o escribe 'fin' para terminar):").trim();
+        let producto = prompt("Ingresa el producto que deseas agregar a la lista de compras (o escribe 'fin' para terminar):").trim();
+        producto = producto.charAt(0).toUpperCase() + producto.slice(1).toLocaleLowerCase();
        
-        if (producto.toLowerCase() === 'fin') {
+        if (producto === 'Fin') {
             break;
         }
 
         let categoria = prompt(`En qué categoría deseas agregar el producto ${producto}? \nOpciones: ${Object.keys(listaCompras).join(", ")}`).trim();
+        categoria = categoria.charAt(0).toUpperCase() + categoria.slice(1).toLocaleLowerCase();
         
         if (listaCompras[categoria]) {
             listaCompras[categoria].push(producto);
