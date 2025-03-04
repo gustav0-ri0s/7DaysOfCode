@@ -1,4 +1,4 @@
-![dia 7](https://github.com/user-attachments/assets/de1f506a-e932-4505-a268-264a41fc1f05)
+![dia7](https://github.com/user-attachments/assets/1dc2918c-503f-4092-a42b-76d045f7c072)
 
 # Dia 7: Funciones - Calculadora
 #### Dificultad: Fácil | Publicación: 03/03/25 
