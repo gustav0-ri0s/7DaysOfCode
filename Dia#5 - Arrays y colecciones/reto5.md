@@ -1,4 +1,5 @@
-![dia 5](https://github.com/user-attachments/assets/de1f506a-e932-4505-a268-264a41fc1f05)
+# <p align="center">![7DaysOfCode](https://github.com/user-attachments/assets/f6b05689-a7f2-436b-a3bc-194a2f6a92ab)</p><p align="center">![dia 5](https://github.com/user-attachments/assets/de1f506a-e932-4505-a268-264a41fc1f05)</p>
+
 
 # Dia 5: Arrays y Colecciones
 #### Dificultad: Fácil | Publicación: 01/03/25 
