@@ -1,4 +1,4 @@
-![dia2](https://github.com/user-attachments/assets/02d24725-c0c7-4891-a0e4-2fa9d496d682)
+# <p align="center">![7DaysOfCode](https://github.com/user-attachments/assets/f6b05689-a7f2-436b-a3bc-194a2f6a92ab)</p><p align="center">![dia2](https://github.com/user-attachments/assets/02d24725-c0c7-4891-a0e4-2fa9d496d682)</p>
 # Dia 2: VARIABLES
 #### Dificultad: Fácil | Publicación: 26/01/25 
 
