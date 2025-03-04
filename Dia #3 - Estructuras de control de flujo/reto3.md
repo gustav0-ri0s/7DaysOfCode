@@ -1,4 +1,4 @@
-![dia3](https://github.com/user-attachments/assets/571893ca-bf75-42f6-abeb-dacec12edcb7)
+# <p align="center">![7DaysOfCode](https://github.com/user-attachments/assets/f6b05689-a7f2-436b-a3bc-194a2f6a92ab)</p><p align="center">![dia3](https://github.com/user-attachments/assets/571893ca-bf75-42f6-abeb-dacec12edcb7)</p>
 
 # Dia 3: ESTRUCTURAS DE CONTROL
 #### Dificultad: Fácil | Publicación: 27/01/25 
