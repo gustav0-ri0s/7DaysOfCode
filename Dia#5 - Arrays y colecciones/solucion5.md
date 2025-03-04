@@ -16,5 +16,3 @@ Este programa permite crear y organizar una lista de compras clasificando los pr
 ## 🛠️ Tecnologías usadas
 
 - **JavaScript** (uso de objetos, arrays y funciones)
-
-## 🚀 Ejemplo de salida
