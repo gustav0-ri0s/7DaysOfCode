@@ -1,4 +1,5 @@
-![dia 4](https://github.com/user-attachments/assets/65ef1abe-b6d7-4843-8b14-201cbd0cd4f9)
+# <p align="center">![7DaysOfCode](https://github.com/user-attachments/assets/f6b05689-a7f2-436b-a3bc-194a2f6a92ab)</p><p align="center">![dia 4](https://github.com/user-attachments/assets/65ef1abe-b6d7-4843-8b14-201cbd0cd4f9)</p>
+
 
 # Dia 4: Mas loops y randomización
 #### Dificultad: Fácil | Publicación: 27/01/25 
