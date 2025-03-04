@@ -1,4 +1,5 @@
-![dia6](https://github.com/user-attachments/assets/971dd5b0-a1d1-440d-8ab6-257c28d087d2)
+# <p align="center">![7DaysOfCode](https://github.com/user-attachments/assets/f6b05689-a7f2-436b-a3bc-194a2f6a92ab)</p><p align="center">![dia6](https://github.com/user-attachments/assets/971dd5b0-a1d1-440d-8ab6-257c28d087d2)
+</p>
 
 # Dia 6: Remoción de arryas
 #### Dificultad: Fácil | Publicación: 02/03/25 
