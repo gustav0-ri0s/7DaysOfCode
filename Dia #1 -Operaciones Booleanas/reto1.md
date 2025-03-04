@@ -1,4 +1,4 @@
-![unnamed (1)](https://github.com/user-attachments/assets/5e1b1971-7ee9-4ef1-af15-e84ffec3b10b)
+# <p align="center">![7DaysOfCode](https://github.com/user-attachments/assets/f6b05689-a7f2-436b-a3bc-194a2f6a92ab)</p><p align="center">![unnamed (1)](https://github.com/user-attachments/assets/5e1b1971-7ee9-4ef1-af15-e84ffec3b10b)</p>
 # Dia 1: OPERACIONES BOOLEANAS
 #### Dificultad: Fácil | Publicación: 25/01/25 
 
