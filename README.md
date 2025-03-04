@@ -12,8 +12,8 @@ Cada carpeta contiene el reto y la solución del día correspondiente:
 - **Día-3** → Estructuras de control de flujo [Desafío 3](Dia%20%233%20-%20Estructuras%20de%20control%20de%20flujo/reto3.md)
 - **Día-4** → Estructuras de control de flujo [Desafío 4](Dia%20%234%20-%20Mas%20loops%20y%20randomización/reto4.md)
 - **Día-5** → Arrays y colecciones [Desafío 5](Dia%235%20-%20Arrays%20y%20colecciones/reto5.md)
-- **Día-6** → Arrays y colecciones [Desafío 6](Dia%236%20-%20Arrays%20y%20colecciones/reto6.md)
-- **Día-7** → Funciones [Desafío 7](Dia%237%20-%20Arrays%20y%20colecciones//reto7.md)
+- **Día-6** → Arrays y colecciones [Desafío 6](Dia%236-Remocion%20de%20arrays/reto6.md)
+- **Día-7** → Funciones [Desafío 7](Dia%237%20-%20Funciones/reto7.md)
 
 
 ## 💡 ¿Por qué hacer este desafío?  
